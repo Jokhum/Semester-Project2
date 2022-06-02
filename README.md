@@ -52,9 +52,7 @@ https://github.com/Jokhum/Semester-Project2.git
 
 3. Then:
 
-```
-  Display the project in your Live Server preview or in your prefered code editor
-```
+```Display the project in your Live Server preview or in your prefered code editor```
 
 ## Contributing
 
