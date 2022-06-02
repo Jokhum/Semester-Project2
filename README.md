@@ -32,18 +32,15 @@ This is where you list how to get the project started. It typically just include
 
 ```https://github.com/Jokhum/semester-project-2-strapi-files.git```
 
-1.1  Then install the strapi server locally & run the server locally.
+2. Then install the strapi server locally & run the server locally.
 
 ```npm install / npm run develop```
-
-2. Clone the project files from this repository either from URL or your prefered way of cloning, then:
-
 
   
 
 ### Running
 
-To run the project:
+To run the project, clone the files from this repository and then:
 
 ```
   Display the project in your Live Server preview or in your prefered code editor
