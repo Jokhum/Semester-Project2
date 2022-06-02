@@ -38,7 +38,7 @@ This is where you list how to get the project started. It typically just include
 
 2. Clone the project files from this repository either from URL or your prefered way of cloning, then:
 
-  ```And then run the project in your live server preview on VSC or your prefered code editor```
+
   
 
 ### Running
@@ -48,7 +48,7 @@ Here is where you detail how to run the app. It typically involves the commands 
 To run the app, run the following commands:
 
 ```bash
-npm run start
+  Display the project in your Live Server preview or in your prefered code editor
 ```
 
 ## Contributing
