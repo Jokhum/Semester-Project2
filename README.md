@@ -28,6 +28,10 @@ You can list a the tech stack that you've used over here
 
 This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
+. Clone and run the local strapi project files from this repository:
+
+```https://github.com/Jokhum/semester-project-2-strapi-files.git```
+
 1. Clone the repo:
 
 ```bash
