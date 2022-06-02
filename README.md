@@ -2,8 +2,6 @@
 
 ![image](https://github.com/Jokhum/pwportfolio/blob/6abede14040ab4b345e784a279f832828069906c/images/logos/ShoeHouse.jpg)
 
-A simple overview of the use/purpose of the project.
-
 ## Description
 
 - Ecommerce site based on a fictional shoe company in Bergen, Norway.
