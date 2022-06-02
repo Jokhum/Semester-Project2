@@ -46,7 +46,7 @@ To run the project:
 
 1. Clone the project files from this repository to your device.
 
-```https://github.com/Jokhum/Semester-Project2.git```
+```bash https://github.com/Jokhum/Semester-Project2.git```
 
 3. Then:
 
