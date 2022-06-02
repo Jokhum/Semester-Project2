@@ -36,9 +36,10 @@ This is where you list how to get the project started. It typically just include
 
 ```npm install / npm run develop```
 
-2. Clone the project files from this repository either from URL or your prefered way of cloning:
+2. Clone the project files from this repository either from URL or your prefered way of cloning, then:
 
-  Run the project files on live server extension in VSC or your prefered code editor.
+  ```And then run the project in your live server preview on VSC or your prefered code editor```
+  
 
 ### Running
 
