@@ -45,7 +45,10 @@ https://github.com/Jokhum/semester-project-2-strapi-files.git
 To run the project:
 
 1. Clone the project files from this repository to your device.
-2. Then:
+
+```https://github.com/Jokhum/Semester-Project2.git```
+
+3. Then:
 
 ```
   Display the project in your Live Server preview or in your prefered code editor
