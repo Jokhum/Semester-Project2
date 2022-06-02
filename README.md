@@ -53,13 +53,9 @@ https://github.com/Jokhum/Semester-Project2.git
 
 ```Display the project in your Live Server preview or in your prefered code editor```
 
-## Admin Login Details
-
-Please contact me via mail to gain access to admin credentials for project testing.
-
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+Please contact me via mail information submitted in the contact category to gain access to admin credentials for project testing.
 
 ## Contact
 
