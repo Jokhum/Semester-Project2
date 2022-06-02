@@ -1,0 +1,12 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  color: $colour-light;
+
+  .search-row {
+    display: flex;
+    align-items: center;
+  }
+}

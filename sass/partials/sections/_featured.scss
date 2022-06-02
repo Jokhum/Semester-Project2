@@ -1,0 +1,27 @@
+.shoe-title {
+  width: 100%;
+}
+
+.featured-container {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+  .featured-img-container {
+    width: 100%;
+    .featured-img {
+      width: 100%;
+    }
+  }
+  .shoe-text-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+  }
+}
+
+.shoe-price {
+  color: $colour-primary;
+  font-size: 20px;
+}

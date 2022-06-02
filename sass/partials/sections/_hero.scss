@@ -1,0 +1,14 @@
+.hero-container {
+  display: flex;
+  max-height: 450px;
+  width: 100%;
+  justify-content: center;
+}
+
+.hero-image {
+  width: 100%;
+  object-fit: cover;
+  object-position: 50% 80%;
+  box-shadow: 5px 5px 5px $colour-black;
+  margin-bottom: 2rem;
+}

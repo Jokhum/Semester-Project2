@@ -1,0 +1,64 @@
+.price-total {
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 2rem;
+  h3 {
+    color: $colour-light;
+  }
+
+  .total-sum {
+    text-decoration: underline;
+    font-size: 22px;
+  }
+}
+
+.cart-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+  text-align: center;
+
+  @include larger {
+    flex-direction: row;
+  }
+
+  .item-text-container {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    min-width: 200px;
+    justify-content: space-around;
+
+    .shoe-price {
+      color: $colour-light;
+    }
+  }
+  .cart-image-container {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+  }
+  .cart-image {
+    height: 100%;
+    width: 100%;
+  }
+
+  .icon-container {
+    display: flex;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+
+    i {
+      font-size: 30px;
+    }
+  }
+}

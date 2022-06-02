@@ -1,0 +1,29 @@
+footer {
+  margin-top: 60px;
+  height: 60px;
+  width: 100%;
+
+  .footer-container {
+    background-color: $colour-dark;
+    text-align: center;
+    padding: 0.6rem;
+    border-top: 1px solid #f5ac0046;
+
+    .footer-icons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 0.5rem;
+
+      a {
+        color: $colour-primary;
+      }
+    }
+
+    .footer-text {
+      color: $colour-primary;
+      font-size: 12px;
+      margin: 0;
+    }
+  }
+}

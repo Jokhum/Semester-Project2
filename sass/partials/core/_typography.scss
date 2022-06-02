@@ -1,0 +1,18 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: $font-headers;
+  color: $colour-primary;
+  margin: 1rem 0;
+}
+
+h1 {
+  margin: 2rem 0;
+}
+
+p {
+  font-size: 14px;
+  color: $colour-light;
+  margin: 0.5rem 0;
+}

@@ -1,0 +1,28 @@
+$screen-xlarge: 1450px;
+$screen-larger: 800px;
+$screen-small: 799px;
+$screen-xs: 440px;
+
+@mixin xlarge {
+  @media (min-width: #{$screen-xlarge}) {
+    @content;
+  }
+}
+
+@mixin larger {
+  @media (min-width: #{$screen-larger}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media (max-width: #{$screen-small}) {
+    @content;
+  }
+}
+
+@mixin x-small {
+  @media (max-width: #{$screen-xs}) {
+    @content;
+  }
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Outfit&display=swap" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <title></title>
+  </head>
+  <body>
+    <div class="nav-container"></div>
+    <div class="wrapper">
+      <h1>Edit product:</h1>
+      <div class="form-container">
+        <div class="loader-text">
+          <div class="loader"></div>
+          <h2>Loading product...</h2>
+        </div>
+        <form id="editForm">
+          <div class="formInput">
+            <label for="title">Product title:</label>
+            <input name="title" id="title" placeholder="Product title..." />
+          </div>
+          <div class="formInput">
+            <label for="price">Price:</label>
+            <input name="price" id="price" placeholder="Price..." />
+          </div>
+
+          <div class="formInput">
+            <label for="description">Product description:</label>
+            <input name="description" id="description" placeholder="Product description..." />
+          </div>
+          <div class="formInput">
+            <label for="image">Add an image URL:</label>
+            <input type="text" id="image" name="image" checked />
+          </div>
+          <div class="featured-check">
+            <label for="featured-check">Featured:</label>
+            <input type="checkbox" id="featured-check" name="featured" />
+          </div>
+          <input id="id" type="hidden" />
+          <div class="form-error-container"></div>
+          <button id="update">Update</button>
+          <button type="button" id="delete">Delete</button>
+        </form>
+      </div>
+    </div>
+    <footer>
+      <div class="footer-container"></div>
+    </footer>
+    <script src="js/script.js" type="module"></script>
+    <script src="js/adminEdit.js" type="module"></script>
+  </body>
+</html>

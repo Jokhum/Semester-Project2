@@ -1,0 +1,105 @@
+@import "../abstracts/mixins";
+
+.nav-container {
+  border-bottom: 1px solid #f5ac0046;
+  border-radius: 0;
+  width: 100%;
+  padding: 1rem 0;
+  margin: 0 auto;
+
+  .menu {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+
+    @include larger {
+      flex-direction: row;
+    }
+
+    @include small {
+      flex-direction: row;
+    }
+
+    .logo-container {
+      display: flex;
+      justify-content: center;
+
+      .logo {
+        max-width: 130px;
+        height: 100%;
+      }
+    }
+
+    .hamburger-container {
+      display: flex;
+      justify-content: center;
+      width: 100px;
+      font-size: 35px;
+      margin: 1rem 0;
+
+      @include larger {
+        display: none;
+      }
+
+      :hover {
+        cursor: pointer;
+      }
+    }
+
+    ul {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      list-style: none;
+      width: 100%;
+      margin: 1rem auto;
+
+      @include larger {
+        width: 800px;
+        flex-direction: row;
+        display: flex;
+      }
+
+      @include small {
+        display: none;
+      }
+      :hover {
+        color: $colour-secondary;
+      }
+
+      li {
+        width: 100%;
+        text-align: center;
+        margin: 5px 0;
+
+        #logoutAdmin:hover {
+          color: $colour-dark;
+        }
+
+        .active {
+          color: $colour-secondary;
+        }
+
+        @include larger {
+          width: auto;
+          margin: 0;
+        }
+      }
+
+      a {
+        display: flex;
+        justify-content: center;
+        color: $colour-primary;
+        padding: 0 2rem;
+        font-family: $font-headers;
+        flex-wrap: wrap;
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+button {
+  height: 35px;
+  width: 5rem;
+  margin: 1rem;
+  color: $colour-light;
+  background-color: $colour-dark;
+  border: $border-light;
+  border-radius: 5px;
+  font-family: $font-headers;
+  font-size: 18px;
+
+  &:hover {
+    color: $colour-dark;
+    background-color: $colour-primary;
+    border-color: $colour-primary;
+    cursor: pointer;
+  }
+}
