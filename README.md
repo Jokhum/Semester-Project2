@@ -65,6 +65,9 @@ Here you can detail any information you want to provide regarding contributing t
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[Mail](mailto:p.werven@gmail.com)
-
-[Linkedin profile](https://www.linkedin.com/in/pwerven/)
+<a href="https://www.linkedin.com/in/pwerven/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
+</a>
+<a href="mailto:p_werven@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
