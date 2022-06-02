@@ -6,21 +6,20 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+- Ecommerce site based on a fictional shoe company in Bergen, Norway.
+- Strapi server as backend.
+- Cross device responsiveness
+- Customer and admin individual facings.
+- Admin login functionality.
+- Product creation / editing in admin dashboard.
+- Shopping Cart / Favourite product functionality.
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 - HTML
 - SASS
 - Javascript
+- Strapi
 
 ## Getting Started
 
@@ -54,6 +53,10 @@ https://github.com/Jokhum/Semester-Project2.git
 
 ```Display the project in your Live Server preview or in your prefered code editor```
 
+## Admin Login Details
+
+Please contact me via mail to gain access to admin credentials for project testing.
+
 ## Contributing
 
 Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
@@ -62,6 +65,6 @@ Here you can detail any information you want to provide regarding contributing t
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+[Mail](mailto:p.werven@gmail.com)
 
-[My LinkedIn page](www.linkedin.com)
+[Linkedin profile](https://www.linkedin.com/in/pwerven/)
