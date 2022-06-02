@@ -42,7 +42,10 @@ https://github.com/Jokhum/semester-project-2-strapi-files.git
 
 ### Running
 
-To run the project, clone the files from this repository and then:
+To run the project:
+
+1. Clone the project files from this repository to your device.
+2. Then:
 
 ```
   Display the project in your Live Server preview or in your prefered code editor
