@@ -30,8 +30,7 @@ This is where you list how to get the project started. It typically just include
 
 1. Clone and run the local strapi project files from this repository:
 
-```bash
-https://github.com/Jokhum/semester-project-2-strapi-files.git```
+```bash https://github.com/Jokhum/semester-project-2-strapi-files.git```
 
 1.1  Then install the strapi server locally & run the server locally.
 
