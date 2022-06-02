@@ -32,7 +32,7 @@ This is where you list how to get the project started. It typically just include
 
 ```https://github.com/Jokhum/semester-project-2-strapi-files.git```
 
-  Then install the strapi server locally & run the server locally.
+1.1  Then install the strapi server locally & run the server locally.
 
 ```npm install / npm run develop```
 
