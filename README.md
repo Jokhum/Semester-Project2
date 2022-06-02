@@ -30,7 +30,8 @@ This is where you list how to get the project started. It typically just include
 
 1. Clone and run the local strapi project files from this repository:
 
-```https://github.com/Jokhum/semester-project-2-strapi-files.git```
+```bash
+https://github.com/Jokhum/semester-project-2-strapi-files.git```
 
 1.1  Then install the strapi server locally & run the server locally.
 
@@ -43,11 +44,9 @@ This is where you list how to get the project started. It typically just include
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
+To run the project:
 
-To run the app, run the following commands:
-
-```bash
+```
   Display the project in your Live Server preview or in your prefered code editor
 ```
 
