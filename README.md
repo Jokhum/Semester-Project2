@@ -28,21 +28,18 @@ You can list a the tech stack that you've used over here
 
 This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
-. Clone and run the local strapi project files from this repository:
+1. Clone and run the local strapi project files from this repository:
 
 ```https://github.com/Jokhum/semester-project-2-strapi-files.git```
 
-1. Clone the repo:
+1.2. Then install the strapi server locally & run the server locally.
 
-```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
+```npm install / npm run develop```
 
-2. Install the dependencies:
 
-```
-npm install
-```
+2. Clone the project files from this repository either from URL or your prefered way of cloning:
+
+2.1. Run the project files on live server extension in VSC or your prefered code editor.
 
 ### Running
 
