@@ -49,10 +49,6 @@ https://github.com/Jokhum/Semester-Project2.git
 
 ```Display the project in your Live Server preview or in your prefered code editor```
 
-## Contributing
-
-Please contact me via mail information submitted in the contact category to gain access to admin credentials for project testing.
-
 ## Contact
 
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
