@@ -57,8 +57,6 @@ Please contact me via mail information submitted in the contact category to gain
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
 <a href="https://www.linkedin.com/in/pwerven/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
